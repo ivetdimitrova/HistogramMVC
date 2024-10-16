@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HistogramMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd0760e1cd478e70664d5a15b568e89d054186f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HistogramMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HistogramMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
