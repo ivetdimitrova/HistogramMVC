@@ -1,0 +1,14 @@
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\bin\Debug\net6.0\HistogramMVC.exe
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\bin\Debug\net6.0\HistogramMVC.deps.json
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\bin\Debug\net6.0\HistogramMVC.runtimeconfig.json
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\bin\Debug\net6.0\HistogramMVC.dll
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\bin\Debug\net6.0\HistogramMVC.pdb
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.AssemblyInfoInputs.cache
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.AssemblyInfo.cs
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.csproj.CoreCompileInputs.cache
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.dll
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\refint\HistogramMVC.dll
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.pdb
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.genruntimeconfig.cache
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\ref\HistogramMVC.dll

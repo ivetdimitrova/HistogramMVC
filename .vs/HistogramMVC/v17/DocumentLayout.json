@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|c:\\1.c#\\\u043C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\histogrammvc\\histogrammvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|solutionrelative:histogrammvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|c:\\1.c#\\\u043C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\histogrammvc\\histogrammvc\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|solutionrelative:histogrammvc\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|c:\\1.c#\\\u043C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\histogrammvc\\histogrammvc\\controller\\histogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|solutionrelative:histogrammvc\\controller\\histogramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|c:\\1.c#\\\u043C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\histogrammvc\\histogrammvc\\model\\histogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6016A67D-2ABD-49A3-8EE9-BB52B1082C25}|HistogramMVC\\HistogramMVC.csproj|solutionrelative:histogrammvc\\model\\histogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistogramController.cs",
+              "DocumentMoniker": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\Controller\\HistogramController.cs",
+              "RelativeDocumentMoniker": "HistogramMVC\\Controller\\HistogramController.cs",
+              "ToolTip": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\Controller\\HistogramController.cs",
+              "RelativeToolTip": "HistogramMVC\\Controller\\HistogramController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:48:17.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\View\\Display.cs",
+              "RelativeDocumentMoniker": "HistogramMVC\\View\\Display.cs",
+              "ToolTip": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\View\\Display.cs",
+              "RelativeToolTip": "HistogramMVC\\View\\Display.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:29:58.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Histogram.cs",
+              "DocumentMoniker": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\Model\\Histogram.cs",
+              "RelativeDocumentMoniker": "HistogramMVC\\Model\\Histogram.cs",
+              "ToolTip": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\Model\\Histogram.cs",
+              "RelativeToolTip": "HistogramMVC\\Model\\Histogram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:29:30.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\Program.cs",
+              "RelativeDocumentMoniker": "HistogramMVC\\Program.cs",
+              "ToolTip": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\Program.cs",
+              "RelativeToolTip": "HistogramMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:20:25.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
