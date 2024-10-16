@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "HistogramMVC\\View\\Display.cs",
               "ToolTip": "C:\\1.C#\\\u041C\u043E\u0438\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u0438\\HistogramMVC\\HistogramMVC\\View\\Display.cs",
               "RelativeToolTip": "HistogramMVC\\View\\Display.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAwwC0AAABUAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwC0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T15:29:58.587Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "HistogramMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:20:25.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:20:25.887Z"
             }
           ]
         }

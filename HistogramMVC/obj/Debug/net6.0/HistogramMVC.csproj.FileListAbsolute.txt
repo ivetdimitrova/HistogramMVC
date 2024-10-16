@@ -12,3 +12,4 @@ C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\ref
 C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.pdb
 C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.genruntimeconfig.cache
 C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\ref\HistogramMVC.dll
+C:\1.C#\Моите проекти\HistogramMVC\HistogramMVC\obj\Debug\net6.0\HistogramMVC.sourcelink.json

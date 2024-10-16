@@ -39,11 +39,11 @@ namespace HistogramMVC.View
             //Console.WriteLine($"Числата , които са от 600 до 799 са:{this.P4:f2}%");
             //Console.WriteLine($"Числата , които са от 800 нагоре са:{this.P5:f2}%");
 
-            Console.WriteLine($"Числата , които са под 200 са:{this.P1:f2}%");
-            Console.WriteLine($"Числата , които са от 200 до 399 са:{this.P2:f2}%");
-            Console.WriteLine($"Числата , които са от 400 до 599 са:{this.P3:f2}%");
-            Console.WriteLine($"Числата , които са от 600 до 799 са:{this.P4:f2}%");
-            Console.WriteLine($"Числата , които са от 800 нагоре са:{this.P5:f2}%");
+            Console.WriteLine($"{this.P1:f2}%");
+            Console.WriteLine($"{this.P2:f2}%");
+            Console.WriteLine($"{this.P3:f2}%");
+            Console.WriteLine($"{this.P4:f2}%");
+            Console.WriteLine($"{this.P5:f2}%");
         }
     }
 }
